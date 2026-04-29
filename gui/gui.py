@@ -2,7 +2,7 @@
 gui.py
 Dark-themed tkinter GUI for the tracker
 """
-
+#test
 import tkinter as tk
 from tkinter import ttk, messagebox
 import threading
@@ -33,7 +33,6 @@ BORDER  = "#3a3a5e"
 
 class LaptopTrackerApp(tk.Tk):
     #Main application
-
     def __init__(self):
         super().__init__()
         self.title("💻 Laptop Price Tracker for laptops on webscraper.io/test-sites/e-commerce/static/computers/laptops")
