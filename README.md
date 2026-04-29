@@ -17,7 +17,8 @@ and presents the data in a GUI with a summary stats panel and a live price distr
 
 #1. Install Python 3.11+
 #2. Clone this repository
-#3. Install dependencies
+#3. Install dependencies:
+
 pip install -r requirements.txt
 Install: `requests`, `beautifulsoup4`, `matplotlib`
 
@@ -38,7 +39,7 @@ All data comes from:
 
 - specifically designed for scraping practice 
 
-#OTher Requirements: 
+#Other Requirements: 
 
 requests - 2.31.0 version
 matplotlib - 3.7.0 version
