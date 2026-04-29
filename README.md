@@ -21,7 +21,7 @@ and presents the data in a GUI with a summary stats panel and a live price distr
 pip install -r requirements.txt
 Install: `requests`, `beautifulsoup4`, `matplotlib`
 
-#4. Run it 
+#4. Run it:
 python main.py
 
 #How to Use
